@@ -1,4 +1,4 @@
-# 🪞 MIRROR LIST UPDATE
+# :mirror: MIRROR LIST UPDATE
 
 ## This script is used to update the mirrorlist located in `/etc/pacman.d/`.
 
