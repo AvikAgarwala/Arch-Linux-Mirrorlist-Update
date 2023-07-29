@@ -7,7 +7,7 @@
   sudo pacman -S reflector
 ```
 
-`Step 2:` Download the [mirror-update.sh](/mirror-update.sh) script.
+`Step 2:` Download the [mirror-update.sh](mirror-update.sh) script.
 
 `Step 3:` Grant executable permission to the script file.
 ```bash
